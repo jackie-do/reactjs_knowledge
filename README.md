@@ -2,4 +2,4 @@
 Coding Convension, React Architectures, Optimizations, Books 
 
 Templates
-https://github.com/jackie-do/react-boilerplate-cra-template
+https://github.com/react-boilerplate/react-boilerplate-cra-template
